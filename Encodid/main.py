@@ -41,7 +41,7 @@ def main():
         if intake == "e":
             break
         #Intake cannot be one letter
-        if len(intake) == 0:
+        if len(intake) <= 1:
             print("\n\n{Fore.RED}[Error]{Style.RESET_ALL} Cannot be one letter")
             time.sleep(2.7)
             continue
