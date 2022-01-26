@@ -9,6 +9,7 @@ Encodid uses a series of all characters in a random sequence of 4 through 22. Ar
 3. Run `main.py` and enter a string of `Encodid` encrypted data or a regular sentence. `main.py` will automatically decode or encode the sequence depending on the input.
 
 **NEEDED PYTHON MODULES**
+
 Pickle, Colorama 
 
 ### Keys
