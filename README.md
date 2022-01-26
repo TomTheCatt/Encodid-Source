@@ -1,5 +1,5 @@
 # Encodid Source Code
-This is the source code for Encodid and the stable, released version can be found [here](). Encodid is a program built with only one goal: make every message impossible to decode no matter what resources were avaliable. Encodid accomplished exactly that.
+This is the source code for Encodid and the stable, released version can be found [here](https://github.com/TomTheCatt/Encodid). Encodid is a program built with only one goal: make every message impossible to decode no matter what resources were avaliable. Encodid accomplished exactly that.
 
 Encodid uses a series of all characters in a random sequence of 4 through 22. Around 96 characters are used in the sequence, including whitespaces and backlashes.
 
